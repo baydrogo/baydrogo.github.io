@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Baydrogo</title>
-    <link>/categories/</link>
+    <link>https://baydrogo.com/categories/</link>
     <description>Recent content in Categories on Baydrogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2023 01:26:21 +0300</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 01:26:21 +0300</lastBuildDate><atom:link href="https://baydrogo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>serbest</title>
-      <link>/categories/serbest/</link>
+      <link>https://baydrogo.com/categories/serbest/</link>
       <pubDate>Tue, 23 May 2023 01:26:21 +0300</pubDate>
       
-      <guid>/categories/serbest/</guid>
+      <guid>https://baydrogo.com/categories/serbest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dijital akademi</title>
-      <link>/categories/dijital-akademi/</link>
+      <link>https://baydrogo.com/categories/dijital-akademi/</link>
       <pubDate>Tue, 23 May 2023 01:18:56 +0300</pubDate>
       
-      <guid>/categories/dijital-akademi/</guid>
+      <guid>https://baydrogo.com/categories/dijital-akademi/</guid>
       <description></description>
     </item>
     

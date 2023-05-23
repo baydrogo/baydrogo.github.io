@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Baydrogo</title>
-    <link>/tags/</link>
+    <link>https://baydrogo.com/tags/</link>
     <description>Recent content in Tags on Baydrogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2023 01:26:21 +0300</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 01:26:21 +0300</lastBuildDate><atom:link href="https://baydrogo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>fas</title>
-      <link>/tags/fas/</link>
+      <link>https://baydrogo.com/tags/fas/</link>
       <pubDate>Tue, 23 May 2023 01:26:21 +0300</pubDate>
       
-      <guid>/tags/fas/</guid>
+      <guid>https://baydrogo.com/tags/fas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>zotero</title>
-      <link>/tags/zotero/</link>
+      <link>https://baydrogo.com/tags/zotero/</link>
       <pubDate>Tue, 23 May 2023 01:18:56 +0300</pubDate>
       
-      <guid>/tags/zotero/</guid>
+      <guid>https://baydrogo.com/tags/zotero/</guid>
       <description></description>
     </item>
     
